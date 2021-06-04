@@ -1,2 +1,2 @@
-# C34
-Making a ball and string knocking down towers. 
+# p5.play-boilerplate
+Boiler plate for p5.play
